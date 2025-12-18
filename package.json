@@ -1,0 +1,12 @@
+{
+  "name": "weekday-sum-solution",
+  "version": "1.0.0",
+  "description": "JavaScript solution for aggregating weekday values with missing day interpolation",
+  "main": "src/solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
